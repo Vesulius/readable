@@ -10,7 +10,7 @@ JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming la
 
 Bolden
 
-**Ja**vaScript **(//**ˈdʒɑːvəskrɪpt/), **of**ten **ab**breviated as **JS**, is a **pr**ogramming **la**nguage **th**at is **on**e of **th**e **co**re **te**chnologies of **th**e **Wo**rld **Wi**de **We**b, **al**ongside **HT**ML **an**d **CS**S. As of **20**22, **98**% of **we**bsites **us**e **Ja**vaScript on **th**e **cl**ient **si**de **fo**r **we**bpage **be**havior, **of**ten **in**corporating **th**ird-party **li**braries. **Al**l **ma**jor **we**b **br**owsers **ha**ve a **de**dicated **Ja**vaScript **en**gine to **ex**ecute **th**e **co**de on **us**ers' **de**vices
+**Ja**vaScript **(/** ˈdʒɑːvəskrɪpt/), **of**ten **ab**breviated as **JS**, is a **pr**ogramming **la**nguage **th**at is **on**e of **th**e **co**re **te**chnologies of **th**e **Wo**rld **Wi**de **We**b, **al**ongside **HT**ML **an**d **CS**S. As of **20**22, **98**% of **we**bsites **us**e **Ja**vaScript on **th**e **cl**ient **si**de **fo**r **we**bpage **be**havior, **of**ten **in**corporating **th**ird-party **li**braries. **Al**l **ma**jor **we**b **br**owsers **ha**ve a **de**dicated **Ja**vaScript **en**gine to **ex**ecute **th**e **co**de on **us**ers' **de**vices
 
 ## How to use:
 
