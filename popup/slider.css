@@ -1,10 +1,18 @@
 html,
 body {
-    width: 100px;
+    width: 260px;
+    background-color: dimgray;
+    color: whitesmoke;
+}
+
+.text {
+    display: flex;
+    align-items: center;
 }
 
 .slider {
-    width: 80px;
+    margin: 0 5px 0 5px;
+    width: 90%;
 }
 
 .slider-input {
@@ -12,9 +20,5 @@ body {
 }
 
 .slider-output {
-    display: block;
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
-    margin-top: 10px;
+    margin-left: 5px;
 }
