@@ -1,0 +1,20 @@
+html,
+body {
+    width: 100px;
+}
+
+.slider {
+    width: 80px;
+}
+
+.slider-input {
+    width: 100%;
+}
+
+.slider-output {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}

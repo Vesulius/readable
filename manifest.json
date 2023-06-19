@@ -1,20 +1,27 @@
 {
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Readable",
   "version": "1.0",
-
   "description": "Make all body text more readable",
-
   "icons": {
     "48": "icons/border-48.png"
   },
-
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icons/border-48.png",
+    "default_title": "Readable",
+    "default_popup": "popup/slider.html"
+  },
   "content_scripts": [
     {
-      "matches": ["*://*/*"],
-      "js": ["readable.js"]
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "readable.js"
+      ]
     }
   ]
-
 }
-
