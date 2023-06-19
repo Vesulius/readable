@@ -2,10 +2,13 @@
 
 Add readability with this extension by bolding the first letters of words.
 
-## Look
+Normal
+
+![nomal look](./documents/text_normal.png)
+
+Bolden
 
 ![Bold look](./documents/text_bolden.png)
-![nomal look](./documents/text_normal.png)
 
 ## How to use:
 
