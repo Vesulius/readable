@@ -11,7 +11,9 @@ const bolden = (breakPoint) => {
     const words = paragraphs[i].textContent.split(' ')
 
     for (let j = 0; j < words.length; j++) {
-      words[j] = `<strong>${words[j].slice(0, breakPoint)}</strong>${words[j].slice(breakPoint)}`
+      if (words[j].length > 2) {
+        words[j] = `<strong>${words[j].slice(0, breakPoint)}</strong>${words[j].slice(breakPoint)}`
+      }
     }
 
     const modifiedText = words.join(' ')
